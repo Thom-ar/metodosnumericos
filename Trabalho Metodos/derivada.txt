@@ -1,0 +1,4 @@
+n F(n)
+Diferenca Avancada: 1 3.0000029997978572
+Diferenca Centrada: 2 3 4 [  191.99999994  2187.00000187 12287.99995442]
+Diferenca Atrasada: 5 46874.99953433871
